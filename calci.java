@@ -62,6 +62,7 @@ public class calci implements ActionListener {
             numberButtons[i].setFocusable(false);
         }
 
+        
         negButton.setBounds(50, 430, 100, 50);
         delButton.setBounds(150, 430, 100, 50);
         clrButton.setBounds(250, 430, 100, 50);
